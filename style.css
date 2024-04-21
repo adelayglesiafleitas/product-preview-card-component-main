@@ -46,11 +46,7 @@ body {
   background-position: center;
   background-size: cover;
 }
-/*.container__sect_img img {
-  width: 375px;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-}*/
+
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -61,7 +57,6 @@ body {
 
 .container_sect_text {
   margin-top: 27px;
-  /* margin-bottom: 27px;*/
   margin-left: 25px;
   margin-right: 25px;
 }
